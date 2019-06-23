@@ -5,12 +5,6 @@
 # not  sorguya olumsuzluk katar True ise False, False ise True
 
 
-
-
-
-
-
-
 user_name = input("Lütfen kullanıcı adınızı giriniz : ")
 if user_name == "admin":  # db içerisinde varmı ?
     password = input("Lütfen şifrenizi giriniz : ")
@@ -23,6 +17,9 @@ else:
     pass
 
 
+
+user_name = input("Lütfen kullanıcı adınızı giriniz : ")
+password = input("Lütfen şifrenizi giriniz : ")
 if user_name == "admin" and password == "123":
     print( "Tebrikler!")
 else:
