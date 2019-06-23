@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="727870a5-3b5b-4531-a4fe-76e7dbda97a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson3/KararYapilari3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3/KararYapilari4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3/KararYapilari5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/KararYapilari5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/KararYapilari5.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lesson3/KararYapilari5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="421">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -127,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.KararYapilari4">
+  <component name="RunManager" selected="Python.KararYapilari5">
     <configuration name="HataYonetimi" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonDersleri" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ornek5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="KararYapilari5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonDersleri" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,12 +244,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson2/Ornek5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson3/KararYapilari5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.KararYapilari5" />
         <item itemvalue="Python.KararYapilari4" />
         <item itemvalue="Python.KararYapilari3" />
         <item itemvalue="Python.KararYapilari2" />
         <item itemvalue="Python.KararYapilari1" />
-        <item itemvalue="Python.Ornek5" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +279,7 @@
       <option name="presentableId" value="Default" />
       <updated>1561187461918</updated>
       <workItem from="1561187463609" duration="8216000" />
-      <workItem from="1561273819086" duration="5420000" />
+      <workItem from="1561273819086" duration="6071000" />
     </task>
     <task id="LOCAL-00001" summary="karar yapıları">
       <created>1561276695821</created>
@@ -297,11 +295,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561276959735</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="karar yapıları">
+      <created>1561280094436</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561280094436</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13636000" />
+    <option name="totallyTimeSpent" value="14287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
@@ -312,7 +317,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26366252" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26366252" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -346,6 +351,7 @@
     <SUITE FILE_PATH="coverage/PythonDersleri$Ornek3.coverage" NAME="Ornek3 Coverage Results" MODIFIED="1561193740708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson2" />
     <SUITE FILE_PATH="coverage/PythonDersleri$KararYapilari4.coverage" NAME="KararYapilari4 Coverage Results" MODIFIED="1561279738277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Ornek4.coverage" NAME="Ornek4 Coverage Results" MODIFIED="1561194472081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson2" />
+    <SUITE FILE_PATH="coverage/PythonDersleri$KararYapilari5.coverage" NAME="KararYapilari5 Coverage Results" MODIFIED="1561280275670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
     <SUITE FILE_PATH="coverage/PythonDersleri$KararYapilari1.coverage" NAME="KararYapilari1 Coverage Results" MODIFIED="1561276298748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
   </component>
   <component name="editorHistoryManager">
@@ -393,8 +399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson3/KararYapilari5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="421">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
         </state>
       </provider>
     </entry>
