@@ -1,0 +1,1 @@
+# Dışarıdan aldığı değere göre içi boş kare çizen metot
