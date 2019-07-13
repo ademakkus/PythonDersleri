@@ -18,4 +18,10 @@ print(sehirler[2:4]) # 1. parametrede verilen değer index değeridir. 2. parame
 print(sehirler[:])
 
 
+print('x' in ['y','x','z'])
+
+
+liste = list(zip(myList1,myList2,myList3))
+print(liste)
+
 
