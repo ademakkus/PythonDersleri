@@ -2,105 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="727870a5-3b5b-4531-a4fe-76e7dbda97a0" name="Default Changelist" comment="11">
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 1/OOP1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 1/OOP2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 1/OOP3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 1/OOP4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 1/OOP5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 1/OOP6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 2/1)__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 2/2)Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 2/3)Override.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 2/4)Ornek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 2/5)AccessModifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 2/6)GrabageCollection.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Etut/Ornek1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 1/DegiskenTanimlama.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 1/DegiskenTanimlama.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 1/Deneme.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 1/Deneme.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 1/Operatorler.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 1/Operatorler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 1/OperatorlerOrnek.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 1/OperatorlerOrnek.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 1/VeriTipleri.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 1/VeriTipleri.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 1/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 1/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson10/Metot0.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 10/Metot0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson10/Metot1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 10/Metot1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson10/Metot2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 10/Metot2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson10/Metot3.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 10/Metot3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson10/Metot4.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 10/Metot4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson10/Metot5.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 10/Metot5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/10SwapCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/10SwapCase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/11Strip.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/11Strip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/12Join.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/12Join.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/13Count.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/13Count.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/14Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/14Index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/15Find.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/15Find.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/16Center.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/16Center.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/17MakeTrans.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/17MakeTrans.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/1Capitalize-Title.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/1Capitalize-Title.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/2Sorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/2Sorted.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/3Reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/3Reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/4Split.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/4Split.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/5RSplit.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/5RSplit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/6Splitlines.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/6Splitlines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/7LoweUpper.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/7LoweUpper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/8EndsWith.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/8EndsWith.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/9StartsWith.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/9StartsWith.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/Ornek1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/Ornek1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson11/Ornek2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 11/Ornek2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/HataYonetimi1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 2/HataYonetimi1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/HataYonetimi2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 2/HataYonetimi2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/HataYonetimi3.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 2/HataYonetimi3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/HataYonetimi4.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 2/HataYonetimi4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2/HataYonetimi5.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 2/HataYonetimi5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/KararYapilari1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 3/KararYapilari1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/KararYapilari2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 3/KararYapilari2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/KararYapilari3.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 3/KararYapilari3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/KararYapilari4.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 3/KararYapilari4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/KararYapilari5.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 3/KararYapilari5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/KararYapilari6.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 3/KararYapilari6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/KararYapilari7.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 3/KararYapilari7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/KararYapilari8.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 3/KararYapilari8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/KararYapilari9.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 3/KararYapilari9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 4/Dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/DictionaryMetotlar.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 4/DictionaryMetotlar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/List.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 4/List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/ListMetotlar.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 4/ListMetotlar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Set.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 4/Set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 4/Tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/While1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 5/While1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/While2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 5/While2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/While3.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 5/While3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/While4.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 5/While4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/While5.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 5/While5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/While6.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 5/While6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/While7.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 5/While7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/While8.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 5/While8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/While9.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 5/While9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/For1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 6/For1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/For10.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 6/For10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/For2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 6/For2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/For3.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 6/For3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/For4.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 6/For4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/For5.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 6/For5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/For6.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 6/For6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/For7.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 6/For7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/For8.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 6/For8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/For9.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 6/For9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/Break_.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 7/Break_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/Pass_.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 7/Pass_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson7/Range_.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 7/Range_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Void1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 8/Void1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Void10.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 8/Void10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Void2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 8/Void2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Void3.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 8/Void3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Void4.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 8/Void4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Void5.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 8/Void5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Void6.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 8/Void6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Void7.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 8/Void7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Void8.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 8/Void8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson8/Void9.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 8/Void9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/Function1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 9/Function1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/Function2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 9/Function2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/Function4.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 9/Function4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/Function5.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 9/Function5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/Function6.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 9/Function6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/Function7.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 9/Function7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/Function8.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 9/Function8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/function3.py" beforeDir="false" afterPath="$PROJECT_DIR$/1) Introduction/Lesson 9/function3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2) OOP/Lesson 1/OOP1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2) OOP/Lesson 1/1)Class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2) OOP/Lesson 1/OOP2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2) OOP/Lesson 1/2)Class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2) OOP/Lesson 1/OOP3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2) OOP/Lesson 1/3)ClassFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2) OOP/Lesson 1/OOP4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2) OOP/Lesson 1/4)ClassFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2) OOP/Lesson 1/OOP5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2) OOP/Lesson 1/5)Ornek.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2) OOP/Lesson 1/OOP6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2) OOP/Lesson 1/6)__str__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,19 +25,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 1/OOP6.py">
+        <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 2/6)GrabageCollection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1055577769/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
+            <state relative-caret-position="312">
+              <caret line="36" column="17" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -148,12 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lesson8/Void10.py" />
-        <option value="$PROJECT_DIR$/Lesson8/Void11.py" />
-        <option value="$PROJECT_DIR$/Lesson9/Function1.py" />
-        <option value="$PROJECT_DIR$/Lesson9/Function2.py" />
-        <option value="$PROJECT_DIR$/Lesson9/function3.py" />
-        <option value="$PROJECT_DIR$/Lesson9/Function4.py" />
         <option value="$PROJECT_DIR$/Lesson9/Function5.py" />
         <option value="$PROJECT_DIR$/Lesson9/Function6.py" />
         <option value="$PROJECT_DIR$/Lesson9/Function7.py" />
@@ -199,12 +98,18 @@
         <option value="$PROJECT_DIR$/2) OOP/Lesson 1/Ornek4.py" />
         <option value="$PROJECT_DIR$/2) OOP/Lesson 1/OOP5.py" />
         <option value="$PROJECT_DIR$/2) OOP/Lesson 1/OOP6.py" />
+        <option value="$PROJECT_DIR$/2) OOP/Lesson 2/OOP1.py" />
+        <option value="$PROJECT_DIR$/2) OOP/Lesson 2/2)Inheritance.py" />
+        <option value="$PROJECT_DIR$/2) OOP/Lesson 2/3)Override.py" />
+        <option value="$PROJECT_DIR$/2) OOP/Lesson 2/4)Ornek.py" />
+        <option value="$PROJECT_DIR$/2) OOP/Lesson 2/5)AccessModifier.py" />
+        <option value="$PROJECT_DIR$/2) OOP/Lesson 2/6)GrabageCollection.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1958" />
-    <option name="y" value="86" />
+    <option name="x" value="1887" />
+    <option name="y" value="98" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -235,7 +140,7 @@
               <item name="PythonDersleri" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDersleri" type="462c0819:PsiDirectoryNode" />
               <item name="2) OOP" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson 2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonDersleri" type="b2602c69:ProjectViewProjectNode" />
@@ -274,7 +179,117 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.OOP6">
+  <component name="RunManager" selected="Python.6)GrabageCollection">
+    <configuration name="2)Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDersleri" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2) OOP/Lesson 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2) OOP/Lesson 2/2)Inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3)Override" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDersleri" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2) OOP/Lesson 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2) OOP/Lesson 2/3)Override.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4)Ornek" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDersleri" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2) OOP/Lesson 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2) OOP/Lesson 2/4)Ornek.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5)AccessModifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDersleri" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2) OOP/Lesson 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2) OOP/Lesson 2/5)AccessModifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6)GrabageCollection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDersleri" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2) OOP/Lesson 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2) OOP/Lesson 2/6)GrabageCollection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="HataYonetimi" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonDersleri" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,123 +312,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OOP2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonDersleri" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2) OOP/Lesson 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2) OOP/Lesson 1/OOP2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="OOP3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonDersleri" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2) OOP/Lesson 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2) OOP/Lesson 1/OOP3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="OOP5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonDersleri" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2) OOP/Lesson 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2) OOP/Lesson 1/OOP5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="OOP6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonDersleri" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2) OOP/Lesson 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2) OOP/Lesson 1/OOP6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ornek4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonDersleri" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2) OOP/Lesson 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\murat\Desktop\PythonDersleri\2) OOP\Lesson 1\OOP4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.OOP6" />
-        <item itemvalue="Python.OOP5" />
-        <item itemvalue="Python.Ornek4" />
-        <item itemvalue="Python.OOP3" />
-        <item itemvalue="Python.OOP2" />
+        <item itemvalue="Python.6)GrabageCollection" />
+        <item itemvalue="Python.5)AccessModifier" />
+        <item itemvalue="Python.4)Ornek" />
+        <item itemvalue="Python.3)Override" />
+        <item itemvalue="Python.2)Inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +341,8 @@
       <workItem from="1562484245386" duration="12243000" />
       <workItem from="1562674525511" duration="3948000" />
       <workItem from="1562854083135" duration="2184000" />
-      <workItem from="1563002415426" duration="11221000" />
+      <workItem from="1563002415426" duration="11658000" />
+      <workItem from="1563088673478" duration="12228000" />
     </task>
     <task id="LOCAL-00001" summary="karar yapıları">
       <created>1561276695821</created>
@@ -470,18 +376,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92369000" />
+    <option name="totallyTimeSpent" value="105034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08315565" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13486141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4544583" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2984496" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -508,6 +413,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonDersleri$Void9.coverage" NAME="Void9 Coverage Results" MODIFIED="1562403191882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson8" />
+    <SUITE FILE_PATH="coverage/PythonDersleri$6_GrabageCollection.coverage" NAME="6)GrabageCollection Coverage Results" MODIFIED="1563102473557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2) OOP/Lesson 2" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Metotlar1.coverage" NAME="Metotlar1 Coverage Results" MODIFIED="1562488468332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson11" />
     <SUITE FILE_PATH="coverage/PythonDersleri$KararYapilari3.coverage" NAME="KararYapilari3 Coverage Results" MODIFIED="1561279199478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
     <SUITE FILE_PATH="coverage/PythonDersleri$3Reverse.coverage" NAME="3Reverse Coverage Results" MODIFIED="1562489181734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson11" />
@@ -556,7 +462,7 @@
     <SUITE FILE_PATH="coverage/PythonDersleri$For1.coverage" NAME="For1 Coverage Results" MODIFIED="1561884081005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson6" />
     <SUITE FILE_PATH="coverage/PythonDersleri$13Count.coverage" NAME="13Count Coverage Results" MODIFIED="1562496828457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson11" />
     <SUITE FILE_PATH="coverage/PythonDersleri$For4.coverage" NAME="For4 Coverage Results" MODIFIED="1561884927951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson6" />
-    <SUITE FILE_PATH="coverage/PythonDersleri$OOP1.coverage" NAME="OOP1 Coverage Results" MODIFIED="1563006604013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2) OOP/Lesson 1" />
+    <SUITE FILE_PATH="coverage/PythonDersleri$OOP1.coverage" NAME="OOP1 Coverage Results" MODIFIED="1563089652489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2) OOP/Lesson 2" />
     <SUITE FILE_PATH="coverage/PythonDersleri$While6.coverage" NAME="While6 Coverage Results" MODIFIED="1561806389991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Tuple.coverage" NAME="Tuple Coverage Results" MODIFIED="1561802215279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/PythonDersleri$For7.coverage" NAME="For7 Coverage Results" MODIFIED="1561888309299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson6" />
@@ -568,7 +474,9 @@
     <SUITE FILE_PATH="coverage/PythonDersleri$KararYapilari1.coverage" NAME="KararYapilari1 Coverage Results" MODIFIED="1561276298748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
     <SUITE FILE_PATH="coverage/PythonDersleri$While9.coverage" NAME="While9 Coverage Results" MODIFIED="1561883485878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Ornek2.coverage" NAME="Ornek2 Coverage Results" MODIFIED="1562494076630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson11" />
+    <SUITE FILE_PATH="coverage/PythonDersleri$2_Inheritance.coverage" NAME="2)Inheritance Coverage Results" MODIFIED="1563095132519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2) OOP/Lesson 2" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Deneme.coverage" NAME="Deneme Coverage Results" MODIFIED="1562676723046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 1" />
+    <SUITE FILE_PATH="coverage/PythonDersleri$4_Ornek.coverage" NAME="4)Ornek Coverage Results" MODIFIED="1563096826760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2) OOP/Lesson 2" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Metot4.coverage" NAME="Metot4 Coverage Results" MODIFIED="1562486708727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson10" />
     <SUITE FILE_PATH="coverage/PythonDersleri$8EndsWith.coverage" NAME="8EndsWith Coverage Results" MODIFIED="1562493121436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson11" />
     <SUITE FILE_PATH="coverage/PythonDersleri$7LoweUpper.coverage" NAME="7LoweUpper Coverage Results" MODIFIED="1562492269913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson11" />
@@ -579,6 +487,7 @@
     <SUITE FILE_PATH="coverage/PythonDersleri$Set.coverage" NAME="Set Coverage Results" MODIFIED="1562674991404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/PythonDersleri$KararYapilari2.coverage" NAME="KararYapilari2 Coverage Results" MODIFIED="1561277043069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Ornek1.coverage" NAME="Ornek1 Coverage Results" MODIFIED="1563003672189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Etut" />
+    <SUITE FILE_PATH="coverage/PythonDersleri$5_AccessModifier.coverage" NAME="5)AccessModifier Coverage Results" MODIFIED="1563099339700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2) OOP/Lesson 2" />
     <SUITE FILE_PATH="coverage/PythonDersleri$For5.coverage" NAME="For5 Coverage Results" MODIFIED="1561885759201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson6" />
     <SUITE FILE_PATH="coverage/PythonDersleri$6Splitlines.coverage" NAME="6Splitlines Coverage Results" MODIFIED="1562491929905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson11" />
     <SUITE FILE_PATH="coverage/PythonDersleri$OOP2.coverage" NAME="OOP2 Coverage Results" MODIFIED="1563007289429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2) OOP/Lesson 1" />
@@ -590,6 +499,7 @@
     <SUITE FILE_PATH="coverage/PythonDersleri$12Join.coverage" NAME="12Join Coverage Results" MODIFIED="1562496195005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson11" />
     <SUITE FILE_PATH="coverage/PythonDersleri$While5.coverage" NAME="While5 Coverage Results" MODIFIED="1561805567680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson5" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Metot5.coverage" NAME="Metot5 Coverage Results" MODIFIED="1562488044850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson10" />
+    <SUITE FILE_PATH="coverage/PythonDersleri$3_Override.coverage" NAME="3)Override Coverage Results" MODIFIED="1563095679180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2) OOP/Lesson 2" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Ornek5.coverage" NAME="Ornek5 Coverage Results" MODIFIED="1561194771755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson2" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Void4.coverage" NAME="Void4 Coverage Results" MODIFIED="1561892887136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson8" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Range_.coverage" NAME="Range_ Coverage Results" MODIFIED="1561890247100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
@@ -598,44 +508,6 @@
     <SUITE FILE_PATH="coverage/PythonDersleri$function3.coverage" NAME="function3 Coverage Results" MODIFIED="1562405589825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson9" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 10/Metot4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 10/Metot5.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 11/1Capitalize-Title.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 11/2Sorted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="20" selection-start-line="20" selection-end-line="21" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 11/3Reverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 11/Ornek1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 11/5RSplit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
@@ -753,13 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 1/Deneme.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 1/DegiskenTanimlama.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -794,41 +659,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Etut/Ornek1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 1/OOP1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 1/OOP2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 1/OOP3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 1/OOP4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Etut/Ornek1.py" />
     <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 3/KararYapilari1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -892,13 +723,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 1/OOP5.py">
+    <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 1/Deneme.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1100">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -909,10 +737,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 1/OOP6.py">
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 1/6)__str__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 1/1)Class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 1/2)Class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 1/3)ClassFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 1/4)ClassFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 1/5)Ornek.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 2/1)__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 2/2)Inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 2/3)Override.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 2/4)Ornek.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 2/5)AccessModifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="74" column="28" lean-forward="true" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 2/6)GrabageCollection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="17" />
         </state>
       </provider>
     </entry>
