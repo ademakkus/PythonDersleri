@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="727870a5-3b5b-4531-a4fe-76e7dbda97a0" name="Default Changelist" comment="11">
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 3/Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 3/TelefonRehberi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 4/1) Super.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2) OOP/Lesson 3/Person.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 3/TelefonRehberi.py">
+        <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 4/1) Super.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="121" column="58" selection-start-line="121" selection-start-column="58" selection-end-line="121" selection-end-column="58" />
+            <state relative-caret-position="519">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -43,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lesson9/Function7.py" />
         <option value="$PROJECT_DIR$/Lesson9/Function8.py" />
         <option value="$PROJECT_DIR$/Lesson10/Metot1.py" />
         <option value="$PROJECT_DIR$/Lesson10/Metot2.py" />
@@ -94,6 +93,7 @@
         <option value="$PROJECT_DIR$/2) OOP/Lesson 2/6)GrabageCollection.py" />
         <option value="$PROJECT_DIR$/2) OOP/Lesson 3/Person.py" />
         <option value="$PROJECT_DIR$/2) OOP/Lesson 3/TelefonRehberi.py" />
+        <option value="$PROJECT_DIR$/2) OOP/Lesson 4/1) Super.py" />
       </list>
     </option>
   </component>
@@ -119,29 +119,6 @@
             <path>
               <item name="PythonDersleri" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDersleri" type="462c0819:PsiDirectoryNode" />
-              <item name="1) Introduction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDersleri" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDersleri" type="462c0819:PsiDirectoryNode" />
-              <item name="1) Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson 6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDersleri" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDersleri" type="462c0819:PsiDirectoryNode" />
-              <item name="1) Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson 7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDersleri" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDersleri" type="462c0819:PsiDirectoryNode" />
-              <item name="1) Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson 9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDersleri" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDersleri" type="462c0819:PsiDirectoryNode" />
               <item name="2) OOP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -155,6 +132,12 @@
               <item name="PythonDersleri" type="462c0819:PsiDirectoryNode" />
               <item name="2) OOP" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDersleri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDersleri" type="462c0819:PsiDirectoryNode" />
+              <item name="2) OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson 4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonDersleri" type="b2602c69:ProjectViewProjectNode" />
@@ -193,8 +176,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TelefonRehberi">
-    <configuration name="3)Override" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1) Super">
+    <configuration name="1) Super" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonDersleri" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,12 +185,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2) OOP/Lesson 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2) OOP/Lesson 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2) OOP/Lesson 2/3)Override.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2) OOP/Lesson 4/1) Super.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1) Super" />
         <item itemvalue="Python.TelefonRehberi" />
         <item itemvalue="Python.6)GrabageCollection" />
         <item itemvalue="Python.5)AccessModifier" />
         <item itemvalue="Python.4)Ornek" />
-        <item itemvalue="Python.3)Override" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +340,7 @@
       <workItem from="1562854083135" duration="2184000" />
       <workItem from="1563002415426" duration="11658000" />
       <workItem from="1563088673478" duration="12228000" />
-      <workItem from="1563607184967" duration="10083000" />
+      <workItem from="1563607184967" duration="12665000" />
     </task>
     <task id="LOCAL-00001" summary="karar yapıları">
       <created>1561276695821</created>
@@ -391,7 +374,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115117000" />
+    <option name="totallyTimeSpent" value="117699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
@@ -402,7 +385,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.75838923" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26941514" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28379673" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -501,6 +484,7 @@
     <SUITE FILE_PATH="coverage/PythonDersleri$Ornek4.coverage" NAME="Ornek4 Coverage Results" MODIFIED="1563008909297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2) OOP/Lesson 1" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Function6.coverage" NAME="Function6 Coverage Results" MODIFIED="1562410040295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson9" />
     <SUITE FILE_PATH="coverage/PythonDersleri$9StartsWith.coverage" NAME="9StartsWith Coverage Results" MODIFIED="1562493261579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson11" />
+    <SUITE FILE_PATH="coverage/PythonDersleri$1__Super.coverage" NAME="1) Super Coverage Results" MODIFIED="1563620749652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2) OOP/Lesson 4" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Set.coverage" NAME="Set Coverage Results" MODIFIED="1562674991404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson4" />
     <SUITE FILE_PATH="coverage/PythonDersleri$KararYapilari2.coverage" NAME="KararYapilari2 Coverage Results" MODIFIED="1561277043069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3" />
     <SUITE FILE_PATH="coverage/PythonDersleri$Ornek1.coverage" NAME="Ornek1 Coverage Results" MODIFIED="1563003672189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Etut" />
@@ -525,13 +509,6 @@
     <SUITE FILE_PATH="coverage/PythonDersleri$function3.coverage" NAME="function3 Coverage Results" MODIFIED="1562405589825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson9" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 11/14Index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 11/13Count.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -700,13 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 2/2)Inheritance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 2/3)Override.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -795,17 +765,31 @@
     <entry file="file://$PROJECT_DIR$/1) Introduction/Lesson 6/For1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 3/TelefonRehberi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 3/Person.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
+        <state relative-caret-position="459">
           <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 3/TelefonRehberi.py">
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 2/2)Inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="121" column="58" selection-start-line="121" selection-start-column="58" selection-end-line="121" selection-end-column="58" />
+        <state relative-caret-position="483">
+          <caret line="71" column="9" selection-start-line="71" selection-start-column="9" selection-end-line="72" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 4/1) Super.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
