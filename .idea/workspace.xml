@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="727870a5-3b5b-4531-a4fe-76e7dbda97a0" name="Default Changelist" comment="karar yapıları">
-      <change afterPath="$PROJECT_DIR$/1) Introduction/Lesson 10/Metot6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1) Introduction/Lesson 6/For11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1) Introduction/Lesson 6/For12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 5/1) __repr__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 5/2) Decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 5/3) Abstract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 5/4)Abstract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 5/5.1)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 5/5.2)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 5/5.3)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 5/5.4)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 5/5.5)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 5/5.6)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 5/5.7)Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 6/Bateri.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 6/Gitar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 6/Keman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 6/MuzikAleti.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 6/Muzisyen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 6/YanFulut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2) OOP/Lesson 6/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="727870a5-3b5b-4531-a4fe-76e7dbda97a0" name="Default Changelist" comment="karar yapıları" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 6/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="444">
+              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -120,8 +97,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2047" />
-    <option name="y" value="180" />
+    <option name="x" value="1502" />
+    <option name="y" value="156" />
     <option name="width" value="1932" />
     <option name="height" value="1047" />
   </component>
@@ -357,7 +334,7 @@
       <workItem from="1563088673478" duration="12228000" />
       <workItem from="1563607184967" duration="14079000" />
       <workItem from="1563660533625" duration="1285000" />
-      <workItem from="1563693440908" duration="11772000" />
+      <workItem from="1563693440908" duration="11890000" />
     </task>
     <task id="LOCAL-00001" summary="karar yapıları">
       <created>1561276695821</created>
@@ -391,11 +368,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132170000" />
+    <option name="totallyTimeSpent" value="132288000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
+    <frame x="1502" y="156" width="1932" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.19722815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -845,8 +821,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2) OOP/Lesson 6/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="444">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
