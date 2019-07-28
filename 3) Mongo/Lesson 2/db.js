@@ -6,7 +6,7 @@
         "Phone"    : "+90232445582",
         "Address"  : "Maslak",
         "Gender"   : "Erkek",
-        "Movies"   : []
+        "Movies"   : [1,2,3,4]
     },
     {
         "_id"      : 2,
@@ -15,7 +15,7 @@
         "Phone"    : "+90232445582",
         "Address"  : "Maslak",
         "Gender"   : "Erkek",
-        "Movies"   : []
+        "Movies"   : [3,6,8,9,10]
     }  ,
     {
         "_id"      : 3,
@@ -24,29 +24,29 @@
         "Phone"    : "+90232445582",
         "Address"  : "Maslak",
         "Gender"   : "Kadın",
-        "Movies"   : []
+        "Movies"   : [3,4,11]
     },
     {
-        "_id"      : 3,
+        "_id"      : 4,
         "FirstName": "Türkan",
         "LastName" : "Tarkan",
         "Phone"    : "+90232445582",
         "Address"  : "Maslak",
         "Gender"   : "Kadın",
-        "Movies"   : []
+        "Movies"   : [19,20]
     }  ,
     {
-        "_id"      : 3,
+        "_id"      : 5,
         "FirstName": "Serkan",
         "LastName" : "Sarkan",
         "Phone"    : "+90232445582",
         "Address"  : "Maslak",
         "Gender"   : "Erkek",
-        "Movies"   : []
+        "Movies"   : [5,8,12,15]
     }
 ]
 
-[
+/* db.Movies.insertMany([
     {
         "_id": 1,
         "title": "Carmencita",
@@ -318,4 +318,4 @@
         "director": "Louis Lumière",
         "plot": "Wintertime in Lyons. About a dozen people, men and women, are having a snowball fight in the middle of a tree-lined street. The cyclist coming along the road becomes the target of ..."
     }
-]
+])*/
