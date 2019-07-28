@@ -406,3 +406,44 @@ db.Games.insertMany([ {
   }])
 
 */
+
+
+
+// db içerisinde yer alan, tablolar içerisindeki herhangi bir kayda ulaşmak için, filtreleme yapmak için
+
+// db.Games.find()  // tüm listeyi(collection) teslim eder.
+// db.Games.find({"Name" : "DEFİNE ADASI"})
+
+
+// db içerisinde yer alan bir kaydın, güncellenmesi
+
+// db.Games.update({"Name":"DEFİNE ADASI"}, {$set:{"ImageUrl": "bilge adam"}})
+// db.Games.find({"Name":"DEFİNE ADASI"}).pretty()
+
+// db.Games.update({"Name":"12. GECE"}, {$set:{"ImageUrl": "bilge adam"}})
+// db.Games.find({"ImageUrl":"bilge adam"}).pretty()
+ 
+// db.Games.update({"ImageUrl":"bilge adam"}, {$set:{"Url":"www.bilgeadam.com"}})
+
+// db.Games.update({"Id": 5}, {$set:{"ImageUrl": "bilge adam"}})
+// db.Games.update({"Id": 179}, {$set:{"ImageUrl": "bilge adam"}})
+// db.Games.update({"Id": 20}, {$set:{"ImageUrl": "bilge adam"}})
+
+
+// toplu olarak ImageUrl değeri bilge adam'a eşit olan kayıtların güncellenmesi
+
+// db.Games.update({"ImageUrl":"bilge adam"}, {$set:{"Url":"www.bilgeadam.com"}} ,{multi : true})cls
+
+
+// Games koleksiyonunu game adlı değişkene atıyoruz.
+// var game = db.Games.find()
+
+
+// game.hasNext()  komutunu çalıştırdığınızda true değeri dönüyor ise, içeride okunacak kayıt vardır anlamına gelir.
+
+
+// db.Games.remove(<query>) // Url'i bilge adam olan kayıtları siliniz
+
+// db.Games.remove({"Url":"www.bilgeadam.com"})
+
+// db.Games.find({"Url":"www.bilgeadam.com"}).pretty()
