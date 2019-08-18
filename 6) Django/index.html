@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Bilale Django Anlatım Klavuzu</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container-fluid">
+
+        <div class="row mt-5">
+            <div class="col">
+                <ol type="1">
+                    <li><a target="_blank" href="https://dashboard.heroku.com/">Heroku Login</a> adresinden, üyelik
+                        başlatıyoruz.</li>
+                    <li><a target="_blank" href="https://devcenter.heroku.com/start">Heroku Start</a> adresinden python
+                        dilini seçerek devam ediyoruz.</li>
+                    <li>Sonraki adımlara geçerek, işlemim sistemine göre, setup dosyasını indiriyoruz</li>
+                    <li>kurulum bittikten sonra, command Promp ekranı açarak, <strong><mark class="bg-danger">heroku
+                                login</mark></strong>
+                        komutunu
+                        çalıştırıyoruz.</li>
+                    <li>
+                        heroku create "uygulama isminiz"
+                    </li>
+                    <li>pip install --user pipenv komutu cmd üzerinde çalıştırarak, makinemize virtualenv yüklüyoruz.
+                        Eğer, daha pip kurmadıysanız,
+                        <ol>
+                            <li><a target="_blank" href="https://bootstrap.pypa.io/get-pip.py">Pip indir</a> adresinden
+                                kodları kopyalayıp, bir get-pip.py
+                                adında bir dosyaya kaydediniz. Dosya masa üsütnde yer alsın.
+
+                                <br>
+                                <br>
+                                <mark class="bg-warning">
+                                    if(python dosayı açmayı bilmiyosanız == True):
+                                    masa üstünde bir txt dosyası açıp, kopyaladığınız kodları içerisine yapıştırım
+                                    file(dosya) menüsünden save as (farklı kaydet) seçeneğini seçerek, adını get-pip.py
+                                    olarak değiştiriniz. Not : uzantısının .py olduğundan emin olunuz.
+                                    else:
+                                    devam edin :)
+                                </mark>
+                                <br><br>
+                            </li>
+                        </ol>
+                    </li>
+                    <li>
+                        Django Kurulumu
+                        <ol>
+                            <li>
+                                <a target="_blank" href=" https://www.djangoproject.com/download/">Django Download</a>
+                                adresine giderek, ilgili kod satırını
+                                kopyalıyoruz. <strong>pip install Django</strong>
+                            </li>
+                            <li>
+                                cd Desktop masaüstüne geliyoruz.
+                            </li>
+                            <li>
+                                mkdir DjangoProject DjangoProject adında bir klasör oluşturuyoruz.
+                            </li>
+                            <li>
+                                cd DjangoProject komutu ile o klasör içerisine girip,
+                            </li>
+                            <li>
+                                django-admin startproject "heroku içerisinde oluşturduğunuz uyulamanın(app) adını
+                                veriniz."
+                            </li>
+                            <li>
+                                cd projeadı komutunu çalıştırınız ve projenin dizini içerisine giriniz.
+                            </li>
+                            <li>
+                                python manage.py runserver komutu uygulamanızı ayağa kaldırır ve <a target="_blank"
+                                    href="http://127.0.0.1:8000/">Siteyi Aç</a>
+                                aderesinden sitenizi görüntüleyebilirsiniz.
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        İlk App uygulaması
+                        <ol>
+                            <li>
+
+                                <a target="_blank" href="https://docs.djangoproject.com/en/2.2/intro/tutorial01/">App
+                                    Oluşturma</a> adresinden yönergeyi takip
+                                ederek ilk ekranınız yazınız.
+                            </li>
+                            <li>
+                                Not : cmd ekranında iken, dir anahtar kelimesini ekranda çalıştırırsanız o anda
+                                bulunduğu alan içerisindeki dosyaları listeler.
+
+                                python manage.py komutunu kullanırken mutlaka, manage.py dosyasının bağlı bulunduğu
+                                dizin içerisinde olmanız gerekmektedir.
+
+                                <strong class="bg-danger">python: can't open file 'manage.py': [Errno 2] No such file or
+                                    directory</strong> hatasını alıyorsanız cmd ekranında hangi dizinde olduğunuzu
+                                kontrol ediniz :)
+                            </li>
+                            <li>
+                                python manage.py startapp categories komutu ile, categories adında bir app oluşturduk.
+                            </li>
+                            <li>
+                                categories app içerisinde urls.py adında bir dosya ekleyiniz ve içeriğini düzenleyiniz.
+                            </li>
+                            <li>
+                                categories ve home app'lerini oluşturduktan sonra, default url home olarak belirledik ve
+                                sonrasında herolu'ya publish edildi
+                            </li>
+                        </ol>
+                    </li>
+
+                    <li>
+                        Heroku publish
+                        <ol>
+                            <li>
+                                <a target="_blank"
+                                    href="https://devcenter.heroku.com/articles/django-app-configuration">Heroku
+                                    Setup</a> ilk olarak bu adreste yer
+                                alan yönergeleri takip ediyoruz.
+                            </li>
+                            <li>
+                                cd Desktop cd(current directory) komutu ile masaüstüne geliyoruz.
+                                cd ProjeKlasoru cd "Masa üstünde oluşturduğunuz klasöre geliyoruz"
+                                virtualenv app yeni bir enviroment oluşturuyoruz,
+                                <br>
+                                <strong>Not : </strong> Eğer, virtual env oluşturmada hata alıyorsanız.
+                                <br>
+                                pip uninstall virtualenv
+                                pip install virtualenv
+                                virtualenv app
+
+                            </li>
+                            <li>
+                                Virtual enviromet'a geçiş yapmak için yeni bir cmd (command promp - terminal(mac
+                                için)),<br> Windows için <mark>app\Scripts\activate</mark> <br>
+                                Mac için <mark>source app\activate</mark>
+                            </li>
+                            <li>
+                                Procfile adında uzantısız bir dosya oluşturup içerisine web: gunicorn myproject.wsgi
+                                ekledik. myproject kısmına projenizin adını yazınız
+                            </li>
+                            <li>
+                                enviroment aktif iken, <mark>pip install gunicorn</mark> paketini indiriyoruz ve paketi
+                                <mark>pip freeze</mark> ile inip inmediğini kontrol ediniz.
+                            </li>
+                            <li>
+                                Be sure to add gunicorn to your requirements.txt file as well.
+
+                                <br>
+                                eklediğiniz paketlerin requirements.txt de içerisinde yer aldığından emin olunuz
+                                dosyanınz yok ise, proje içerisinde olduğundan emin olun (manage.py) ile aynı dizinde
+                                olduğunuzdan, cmd ekranında enviroment aktif olmalıdır.
+
+                                <br>
+                                <mark>
+                                    pip freeze > requirements.txt derseniz, dosya otomatik olarak oluşacaktır. hata
+                                    alırsanız elle ekleyiniz.
+                                </mark>
+                            </li>
+                            <li>
+                                <mark>pip install django-heroku</mark> paketini ekliyoruz.
+
+                                <br>
+                                Be sure to add django-heroku to your requirements.txt file as well. txt dosyasına
+                                eklemeyi unutmayın.
+                            </li>
+                            <li>
+                                import django_heroku satırını ana proje içerisinde yer alan settins.py dosyası
+                                içerisinde en üst satıra ekleyiniz.
+                            </li>
+                            <li>
+                                # Activate Django-Heroku.
+                                django_heroku.settings(locals())
+
+                                setting.py içerisinde en alt satıra ekliyoruz.
+                            </li>
+                            <li>
+                                yeni bir cmd ekranı proje içerisine geliniz ve (manage.py)) <mark>git init</mark>
+                            </li>
+                            <li>
+                                <mark>git add *</mark>
+                            </li>
+                            <li>
+                                <mark>git commit -m "First initialize"</mark>
+                            </li>
+                            <li>
+                                <mark>
+                                    heroku git:remote -a muratvuranok
+                                </mark>
+                            </li>
+                            <li>
+                                <mark>
+                                    git push heroku master
+                                </mark>
+                            </li>
+                        </ol>
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
